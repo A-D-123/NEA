@@ -1,0 +1,23 @@
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\NEA - 2D Physics Simulator.exe
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\NEA - 2D Physics Simulator.deps.json
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\NEA - 2D Physics Simulator.runtimeconfig.json
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\NEA - 2D Physics Simulator.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\NEA - 2D Physics Simulator.dll
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\NEA - 2D Physics Simulator.pdb
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.AssemblyInfo.cs
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D.A11A5E7B.Up2Date
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.dll
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\refint\NEA - 2D Physics Simulator.dll
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.pdb
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\NEA - 2D Physics Simulator.genruntimeconfig.cache
+C:\Users\Alex\source\repos\NEA - 2D Physics Simulator\NEA - 2D Physics Simulator\obj\Debug\net5.0\ref\NEA - 2D Physics Simulator.dll
