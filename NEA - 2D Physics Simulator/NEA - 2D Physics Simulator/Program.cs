@@ -21,7 +21,7 @@ namespace NEA___2D_Physics_Simulator
             int totalCollisions = 0;
             while (!Raylib.WindowShouldClose())
             {
-                if (Raylib.IsMouseButtonDown(MouseButton.MOUSE_BUTTON_LEFT))
+                if (Raylib.IsMouseButtonPressed(MouseButton.MOUSE_BUTTON_LEFT))
                     objects.Add(new PhysicsObject(Raylib.GetMousePosition() / Config.PPM, new(2, 2)));
                 foreach (PhysicsObject obj in objects)
                     obj.UpdatePhysics(Raylib.GetFrameTime());
